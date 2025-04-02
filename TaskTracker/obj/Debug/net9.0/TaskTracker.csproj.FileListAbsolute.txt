@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Task-Cli\TaskTracker\bin\Debug\net9.0\TaskTracker.exe
+C:\Users\Administrator\Desktop\Task-Cli\TaskTracker\bin\Debug\net9.0\TaskTracker.deps.json
+C:\Users\Administrator\Desktop\Task-Cli\TaskTracker\bin\Debug\net9.0\TaskTracker.runtimeconfig.json
+C:\Users\Administrator\Desktop\Task-Cli\TaskTracker\bin\Debug\net9.0\TaskTracker.dll
+C:\Users\Administrator\Desktop\Task-Cli\TaskTracker\bin\Debug\net9.0\TaskTracker.pdb
+C:\Users\Administrator\Desktop\Task-Cli\TaskTracker\obj\Debug\net9.0\TaskTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Task-Cli\TaskTracker\obj\Debug\net9.0\TaskTracker.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Task-Cli\TaskTracker\obj\Debug\net9.0\TaskTracker.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Task-Cli\TaskTracker\obj\Debug\net9.0\TaskTracker.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Task-Cli\TaskTracker\obj\Debug\net9.0\TaskTracker.dll
+C:\Users\Administrator\Desktop\Task-Cli\TaskTracker\obj\Debug\net9.0\refint\TaskTracker.dll
+C:\Users\Administrator\Desktop\Task-Cli\TaskTracker\obj\Debug\net9.0\TaskTracker.pdb
+C:\Users\Administrator\Desktop\Task-Cli\TaskTracker\obj\Debug\net9.0\TaskTracker.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Task-Cli\TaskTracker\obj\Debug\net9.0\ref\TaskTracker.dll
